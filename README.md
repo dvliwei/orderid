@@ -2,7 +2,7 @@
 orderid 生成
 
 
-#### 使用发放
+#### 使用方法
 
 ```azure
 go get github.com/dvliwei/orderid
